@@ -3,7 +3,8 @@
 #include <stdio.h>
 
 /**
- *  main - Entry Point and if > 5, < than 6, or 0.
+ *  main - Prints the last digit of a randomly generated number
+ *  and whether it is greater than 0, less than 0, or 0.
  *
  *  Return: Always 0 (Success)
  */

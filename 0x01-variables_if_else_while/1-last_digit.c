@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
  *  main - Entry Point and if > 5, < than 6, or 0.
  *

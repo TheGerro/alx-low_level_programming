@@ -1,3 +1,8 @@
+/*
+ * File: 100-set_string.c
+ * Auth: EASY
+ */
+
 #include "main.h"
 
 /**
